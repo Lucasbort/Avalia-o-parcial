@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(245, 190, 89);
+}
+
+.part1{
+    text-align: center;
+    font-size: 125%;
+    background-color: rgb(245, 190, 89);
+    h1{
+        color: rgb(141, 122, 98);
+    }
+    h2{
+        
+    }
+}
+.part2{
+    text-align: center;
+    background-color: rgb(223, 185, 115);
+}
+.part3{
+    text-align: center;
+    background-color: rgb(238, 195, 115);
+}
